@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogovouva.github.io/EYW/sitemap_index.txt
+Sitemap: https://ogovouva.github.io/MvH/sitemap_index.txt
+Sitemap: https://ogovouva.github.io/WmJ/sitemap_index.txt
+Sitemap: https://ogovouva.github.io/bLG/sitemap_index.txt
